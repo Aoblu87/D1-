@@ -1,0 +1,109 @@
+body{
+    font-family: 'Noto Serif Georgian', serif;
+  
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0%;
+}
+#logo{
+    margin: 0%;
+    padding: 1em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+#titolo{
+    background-color: #fdfbf1;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding: 1em;
+    width: 100%;
+    border-top: solid;
+    border-width:0.1em ;    
+    border-color: orange;
+    
+    
+}
+#main{
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0%;
+    width: auto;
+}
+#image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0%;
+    padding: 0.5em;
+    width: 700px;
+    height: 120vh;
+}
+#image h1{
+    margin: 0%;
+    padding: 0%;
+    padding-top: 1.5em;
+    text-align: center;
+}
+#credit{
+    text-align: center;
+}
+#image img{
+    margin: 0%;
+    padding: 0.2em;
+    width: 100%;
+}
+#featured{
+    margin: 0%;
+    padding: 0.3em;
+    padding-bottom: 0.5em;
+    border-left: solid;
+    border-width:0.1em ;    
+    border-color: orange;
+}
+#featured p{
+    color: orange;
+}
+#featured a{
+    color: #007BA7 ;
+}
+#lista{
+    margin: 0%;
+    padding: 0.5em;
+    width: 700px;
+    height: 120vh;
+}
+.titolo{
+    margin: 0%;
+    padding: 0.5em;
+    padding-top: 2em;
+    border-bottom: solid skyblue 0.1em;
+}
+#footer{
+    margin: 0%;
+    padding: 0%;
+    padding-left: 20em;
+    display: flex;
+ 
+}
+#footer a{
+    margin: 0%;
+    padding: 0%;
+    color: #007BA7 ;
+
+}
+#footer p{
+    margin: 0%;
+padding: 0%;
+}
